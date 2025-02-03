@@ -131,7 +131,9 @@ Users can:
 
 # FAQ
 Q: Is QuantumWhale compatible with MetaMask?
+
 A: Yes! Connect any wallets (MetaMask, Ledger, etc) via API, Secret Worlds, Private Keys, and others.
 
 Q: Is it possible to test strategies on historical data?
-A: Встроенный бектестер поддерживает данные с 2017 года для 100+ криптопар.
+
+A: The built-in backtester supports data from 2017 for 100+ crypto pairs.

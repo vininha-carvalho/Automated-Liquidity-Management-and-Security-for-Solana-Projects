@@ -1,0 +1,5 @@
+python>=3.10
+pyyaml>=6.0
+aiohttp>=3.8
+tensorflow>=2.12
+web3>=6.0

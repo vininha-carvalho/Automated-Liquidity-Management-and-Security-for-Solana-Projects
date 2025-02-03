@@ -8,7 +8,7 @@
 
 The crypto market of 2024 requires professional solutions for those who operate with large capitals ($1M+). Conventional exchanges and DEXs are not suitable for “whales”: high commissions, slippage and lack of risk management tools destroy profits.
 
-QuantumWhale Trader Pro is the first platform created specifically for crypto investors and funds trading large volumes. It combines:
+QuantumWhale Trader Pro is the first crypto trading software created specifically for crypto investors and funds trading large volumes. It combines:
 - ✅ AI-algorithms for liquidity forecasting and order splitting.
 
 - ✅ Aggregator of 15+ exchanges (Binance, Bybit, Uniswap) with commission from 0.05%.

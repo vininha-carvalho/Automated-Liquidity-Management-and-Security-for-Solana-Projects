@@ -22,6 +22,9 @@
 
 - Customizable Strategy Parameters: User-adjustable settings for trade intervals, risk allocation, and dynamic channel levels, enabling tailored execution of quantitative/ML algorithms.
 
+## PineScript
+> In the software using PineScript(v6) Algorithm, but you can also add your Algorithm Strategy
+
 ## PineScript add Module
 <p align="center"><img width="846" height="95" src="images/gui/image.png" alt="interface" /></p>
 

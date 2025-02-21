@@ -26,7 +26,7 @@
 > In the software using PineScript(v6) Algorithm, but you can also add your Algorithm Strategy
 
 ## PineScript add Module
-<p align="center"><img width="846" height="95" src="images/gui/image.png" alt="interface" /></p>
+<p align="center"><img width="846" height="95" src="images/algo.png" alt="ave" /></p>
 
 # Trading Report per 200 orders
 - Max Drawdown: 3.8%

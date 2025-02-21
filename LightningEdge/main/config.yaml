@@ -1,0 +1,13 @@
+data_sources:
+  solana_rpc: "https://api.mainnet-beta.solana.com"
+  helius_api_key: "your_api_key"
+  
+monitored_pools:
+  - "7XawhbbxtsRcQA8KTkHT9f9nc6d69UwqCDh6U5EEbEmX"
+  - "5z3EqYQo8H4K1C4z6G5S5jJ5Z5X5Z5X5Z5X5Z5X5Z5X5"
+
+time_series:
+  price:
+    window_size: 300
+  volume:
+    window_size: 600

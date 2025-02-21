@@ -22,6 +22,9 @@
 
 - Customizable Strategy Parameters: User-adjustable settings for trade intervals, risk allocation, and dynamic channel levels, enabling tailored execution of quantitative/ML algorithms.
 
+## PineScript add Module
+<p align="center"><img width="720" height="463" src="images/gui/image.png" alt="interface" /></p>
+
 # Trading Report per 200 orders
 - Max Drawdown: 3.8%
 - Win Rate: 78%, Profit Factor: 2.1

@@ -1,6 +1,0 @@
-solana-validator \
-  --identity ~/validator-keypair.json \
-  --rpc-port 8899 \
-  --entrypoint https://lb.drpc.org/ogrpc?network=solana&dkey=Arc_JqtwaUlmmje2rvgtJWyamxyDxxAR77DXIlZWwHzR:8001 \
-  --ledger ~/ledger \
-  --limit-ledger-size

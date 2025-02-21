@@ -1,0 +1,1 @@
+k6 run --vus 100 --duration 60s script.js

@@ -1,0 +1,8 @@
+rpc_endpoints:
+  solana: "https://api.mainnet-beta.solana.com"
+  helius: "https://api.helius.xyz/?api-key=YOUR_KEY"
+
+defaults:
+  max_slippage: 0.5%
+  gas_limit: 100000
+  max_trade_attempts: 3

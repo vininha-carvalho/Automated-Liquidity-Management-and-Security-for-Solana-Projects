@@ -39,8 +39,11 @@
 - CPU Usage 68%
 - mistakes 0.08%
 
-# Software v5.0 profit
+# Software v5.0 trading metrics
 <p align="center"><img width="1125" height="485" src="images/LightningEdge/12.01.2025 lt.jpg" alt="interface" /></p> <p align="center"><img width="1129" height="525" src="images/LightningEdge/12.01.2025.jpg" alt="interface" /></p>
+
+## Software v5.0 net profit
+<p align="center"><img width="1280" height="342" src="images/LightningEdge/12.01.2025 lt.jpg" alt="interface" /></p>images/000.jpg
 
 # Next Scaling
 

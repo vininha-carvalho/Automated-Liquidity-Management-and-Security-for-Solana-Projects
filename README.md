@@ -38,3 +38,50 @@
 - throughput 10.5k ops/sec
 - CPU Usage 68%
 - mistakes 0.08%
+
+# Software v5.0 profit
+
+
+# Next Scaling
+
+### 1. Expansion of trading algorithms and strategies
+
+Additional algorithms for technical analysis:
+- Pulse Indicators: MACD, RSI, Stochastic, CCI
+- Volatility indicators: Bollinger Bands, ATR
+- Multiframe Analysis: VWAP, TWAP, EMA Crossovers
+- Algorithms based on machine learning: clustering, price prediction, neural networks for pattern recognition
+
+Arbitrage strategies:
+- Inter-exchange arbitrage between CEX and DEX
+- Intra-exchange arbitrage between different pairs
+
+Scalping and high-frequency trading strategies:
+- Development of algorithms optimized for low-latency operation
+- Use of dollar cost averaging algorithms for multiple entries into a position
+
+### 2. Extension of signals and parameters
+
+Correlation-based signals:
+- Tracking correlation between different tokens to identify diversified opportunities
+
+Signals of insider activity:
+- Monitoring of large transactions, concentration of wallet activity, clustering of insider transactions
+
+Risk Parameters:
+- Dynamic risk management stop loss, trailing stop, risk-to-reward ratio
+- Parameters for optimizing capital allocation based on volatility and predictive signals
+
+## 3. integration with additional exchanges (DEX and CEX)
+
+### DEX:
+In addition to Raydium on Solana, add support for Ethereum DEX (Uniswap, SushiSwap) as well as other blockchains (e.g. PancakeSwap for BSC)
+
+### CEX:
+Expand integration to work with exchanges such as Kraken, Coinbase Pro, FTX, and others via a unified CCXT library that allows multiple exchanges to work through a single API
+
+## Improved  productivity
+
+Expansion of backtesting and simulation capabilities:
+- Historical analysis module with the ability to backtest new strategies and parameters
+- Simulation of different market scenarios to optimize algorithms

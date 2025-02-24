@@ -40,7 +40,7 @@
 - mistakes 0.08%
 
 # Software v5.0 profit
-
+<p align="center"><img width="1125" height="485" src="images/LightningEdge/12.01.2025 lt.jpg" alt="interface" /></p> <p align="center"><img width="1129" height="525" src="images/LightningEdge/12.01.2025.jpg" alt="interface" /></p>
 
 # Next Scaling
 

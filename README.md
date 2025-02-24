@@ -28,21 +28,21 @@
 
 ## Optimization of HFT Trading Algorithms in Cryptocurrency:
 **Our bot is designed with high-frequency trading in mind, enabling order execution with ultra-low latency and delivering top-notch Solana RPC performance.** 
-The system leverages advanced algorithms optimized to minimize delays and slippage, ensuring that every trade is executed quickly and accurately.
+*The system leverages advanced algorithms optimized to minimize delays and slippage, ensuring that every trade is executed quickly and accurately.*
 
 **Secure Execution of Large Trades and Crypto Security for Investors:**
-*LightningEdge incorporates comprehensive risk management measures, tools for monitoring PnL and drawdown, and mechanisms for institutional market regulation, ensuring reliable order execution and safeguarding your funds.
+*LightningEdge incorporates comprehensive risk management measures, tools for monitoring PnL and drawdown, and mechanisms for institutional market regulation, ensuring reliable order execution and safeguarding your funds.*
 
 **Multi-Exchange Integration via API for Cryptocurrency Trading:**
 Our platform supports trading on both decentralized exchanges (such as algorithmic trading tools on Raydium, Uniswap (v3.0, v4.0), Sushiswap, PancakeSwap, and more) and centralized platforms (Binance, ByBit, in future KuCoin, Coinbase, OXK, FTX, and more). 
-**With CCXT integration for crypto exchanges, you receive a unified interface to manage orders across multiple markets.*
+*With CCXT integration for crypto exchanges, you receive a unified interface to manage orders across multiple markets.*
 
 **Market Analytics for Institutional Investors:**
 LightningEdge offers a wide range of tools for both fundamental and technical analysis of cryptocurrencies, as well as instruments for forecasting BTC/ETH prices. 
-**Our analytics modules provide detailed insights into volatility, liquidity, volumes, and trends, helping you make informed decisions.*
+*Our analytics modules provide detailed insights into volatility, liquidity, volumes, and trends, helping you make informed decisions.*
 
 **Liquidity Management Tools:**
-**The system efficiently manages liquidity via smart order routing, optimizing order distribution across various trading venues, minimizing fees, and reducing slippage during trade execution.*
+*The system efficiently manages liquidity via smart order routing, optimizing order distribution across various trading venues, minimizing fees, and reducing slippage during trade execution.*
 
 # LightningEdge is a comprehensive solution that combines:
 

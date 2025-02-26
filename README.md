@@ -1,10 +1,187 @@
-<p align="center"><img width="720" height="463" src="images/aba.jpg" alt="interface" /></p>
+# Liquidity Guardian Suite
+> Automatic pool rebalancing, hacker protection, real-time analytics and cross-chain management. Increase profitability, reduce risks and focus on project development. A white solution for your brand
 
-# LightningEdge: Low-Latency Algo Trading Platform for Crypto
-> LightningEdge an innovative platform for algorithmic cryptocurrency trading, combining high-frequency order execution on decentralized exchanges Solana (Raydium DEX) and centralized platforms Binance and ByBit. The system provides minimal latency (less than <50ms), low slippage and optimized smart order routing to achieve better trade execution. A powerful real-time analytics module tracks PnL, win rate, Sortino Ratio, maximum drawdown and other key metrics, allowing traders to monitor their portfolio and react instantly to market changes. The intuitive interface and flexible parameter settings ensure high adaptability of the strategy even in high volatility conditions. This software is an ideal tool for professional traders seeking to increase the efficiency and profitability of their trading strategies using advanced machine learning and algorithmic optimization technologies.
+# Client Liquidity Guaridan Suite for Windows/macOS\.
+### Write https://t.me/ZeronodeX for get access (available free trial)
 
-# Client LightningEdge for Windows/macOS\.
-### MAC OS: [ ```Set-Up``` ](https://t.me/+V5BhcAw65tgwMWZi) Windows: [```Set-UP```](https://t.me/+V5BhcAw65tgwMWZi)
+# Key modules
+1. **Auto-Rebalance Engine**
+
+- Optimization of liquidity pools:
+
+    - Integration with DEX (Raydium, Orca) to automatically redistribute liquidity between pools based on trading volume and volatility.
+
+    - Utilize SPL Token Accounts to manage token balances.
+
+- Yield Aggregation:
+
+    - Automatic placement of excess liquidity into staking pools (e.g., Marinade Finance) or DeFi strategies (e.g., Solend).
+      
+2. **Security Sentinel**
+
+- Transaction Monitoring:
+
+    - Real-time transaction analysis via Solana RPC to identify suspicious activity (e.g., large transfers to unknown addresses).
+
+    - Integration with smart contract auditing tools (e.g. Sec3).
+
+- Notifications:
+
+    - Push notifications to Telegram/Discord when suspicious activity is detected.
+
+- Multisig for treasury management:
+
+    - Use SPL Token Multisig to manage critical transactions (e.g. withdrawals fro
+
+3. **Advanced Analytics Dashboard**
+
+- Real-time metrics:
+
+    - Distribution of tokens to holders (via SPL Token Accounts analysis).
+
+    - Analysis of the behavior of “whales” (large holders).
+
+    - Volume and liquidity trends (integration with Birdeye, DexScreener).
+
+- Scenario Simulator:
+
+    - Users test how changes in liquidity or staking will affect price.
+
+4. **Community & Treasury Tools**
+
+- Anti-dumping mechanisms:
+
+    - Automatically redeem tokens from the pool when the price drops sharply (using SPL Token Accounts to manage balances).
+
+- Adaptive airdrops:
+
+    - System rewards long-term holders by reducing selling pressure (via SPL Token Accounts and smart contracts).
+
+- DAO Integration:
+
+    - Tools to vote on changes to liquidity parameters (using SPL Governance).
+
+5. **Cross-Chain Liquidity Bridge**
+- Automated Arbitrage:
+
+    - Eliminating imbalances between Solana and Ethereum/BNB Chain via Wormhole.
+
+- Multichain Pool Management:
+
+    - Single interface to control liquidity across different blockchains.
+
+# Features
+
+- Automatic rebalancing of pools (Raydium, Orca and others).
+
+- Protection from hackers through transaction monitoring and multi-signature.
+
+- Real-time analytics (token distribution, whale behavior, liquidity trends).
+
+- Cross-chain management (Solana, Ethereum, BNB Chain via Wormhole).
+
+- White-label solution for customization for your brand.
+
+# Settings
+### 1. Liquidity management
+
+- **Automatic rebalancing of pools**
+    >Settings:
+        - Target liquidity allocation between pools (e.g. 60% in Raydium, 40% in Orca).
+        - Rebalancing rules (e.g., if there is a 5% change in price or trading volume > $50k).
+
+- **Yield Aggregation**
+    >Settings:
+        Choice of strategies (steaking, lending, farming).
+        Minimum and maximum amount for placement.
+
+- **Anti-dumping mechanisms**
+    >Settings:
+        - Price drop threshold to activate redemption (e.g. -10% in 1 hour).
+        - Redemption limits (e.g., no more than 5% of liquidity per day).
+
+### 2. Safety
+
+- **Transaction monitoring**
+    >Settings:
+        - Thresholds for suspicious transactions (e.g., transfer > $10k).
+        - List of trusted addresses.
+
+- **Multi-signature**
+    >Settings:
+        - Number of signatures to validate transactions (e.g., 3 out of 5).
+        - List of multi-signature participants.
+
+- **Audit of smart contracts**
+    >Settings:
+        - Audit frequency (e.g., once a week).
+        - Integration with external audit services (e.g. Sec3).
+
+### 3. Analytics
+
+- **Real-time metrics**
+    >Settings:
+        - Selection of key metrics (e.g., trading volume, price, token distribution).
+        - Customize notifications (e.g., when price changes > 5%).
+
+- **Holder Analysis**
+    >Settings:
+        - Threshold for identifying "whales" (e.g., holders > 1% of total volume).
+        - Tracking the activity of large holders.
+
+- **Scenario Simulator**
+    >Settings:
+        - Input of parameters (e.g. liquidity change, staking).
+        - Selecting the time period for the simulation.
+
+### 4. Community management
+
+- **Adaptive Airdrops**
+    >Settings:
+        - Criteria for participation (e.g., minimum token retention period).
+        - Amount of remuneration.
+
+- **DAO integration**
+    >Settings:
+        - Customize voting rules (e.g. quorum, approval threshold).
+        - Selecting the parameters to be voted on (e.g. changing liquidity).
+
+### 5. Cross-chain management
+
+- **Automated arbitration**
+    >Settings:
+        - Threshold for arbitrage (e.g., price difference > 2%).
+        - Limits on the volume of arbitrage transactions.
+
+- **Managing multichain pools**
+    >Settings:
+        - Select blockchains to manage (e.g. Solana, Ethereum, BNB Chain).
+        - Distribute liquidity between networks.
+
+### 6. Customization and integrations
+
+- **White-Label Solution**
+    >Settings:
+        - Logo, colors, domain.
+        - Selection of modules to display.
+
+- **Integrations**
+    Settings:
+        - A selection of DEXs (Raydium, Orca), steaking platforms (Marinade, Solend), oracles (Pyth, Switchboard).
+
+### 7. Notifications and reports
+
+    Settings:
+        - Select channels for notifications (Telegram, Discord, Email).
+        - Reporting frequency (daily, weekly).
+
+### 8. Monetization
+
+    Settings:
+        - Selecting a tariff plan (basic, premium).
+        - Revenue Share setting (0.1% of managed liquidity).
+
+# Technical Features
 
 - Ultra-Low Latency Execution: Achieve order execution with latency below 50 ms by leveraging dedicated RPC nodes and optimized network paths.
 
@@ -22,99 +199,3 @@
 
 - Customizable Strategy Parameters: User-adjustable settings for trade intervals, risk allocation, and dynamic channel levels, enabling tailored execution of quantitative/ML algorithms.
 
-> LightningEdge is an innovative solution designed for executing large-scale trades on the cryptocurrency market, combining the best trading platforms for institutional investors with major crypto exchanges. Our system provides a comprehensive suite of liquidity management tools that minimize slippage during large transactions and ensure the secure execution of high-value crypto trades.
-
-# Key Advantages of LightningEdge:
-
-## Optimization of HFT Trading Algorithms in Cryptocurrency:
-**Our bot is designed with high-frequency trading in mind, enabling order execution with ultra-low latency and delivering top-notch Solana RPC performance.** 
-*The system leverages advanced algorithms optimized to minimize delays and slippage, ensuring that every trade is executed quickly and accurately.*
-
-**Secure Execution of Large Trades and Crypto Security for Investors:**
-*LightningEdge incorporates comprehensive risk management measures, tools for monitoring PnL and drawdown, and mechanisms for institutional market regulation, ensuring reliable order execution and safeguarding your funds.*
-
-**Multi-Exchange Integration via API for Cryptocurrency Trading:**
-Our platform supports trading on both decentralized exchanges (such as algorithmic trading tools on Raydium, Uniswap (v3.0, v4.0), Sushiswap, PancakeSwap, and more) and centralized platforms (Binance, ByBit, in future KuCoin, Coinbase, OXK, FTX, and more). 
-*With CCXT integration for crypto exchanges, you receive a unified interface to manage orders across multiple markets.*
-
-**Market Analytics for Institutional Investors:**
-LightningEdge offers a wide range of tools for both fundamental and technical analysis of cryptocurrencies, as well as instruments for forecasting BTC/ETH prices. 
-*Our analytics modules provide detailed insights into volatility, liquidity, volumes, and trends, helping you make informed decisions.*
-
-**Liquidity Management Tools:**
-*The system efficiently manages liquidity via smart order routing, optimizing order distribution across various trading venues, minimizing fees, and reducing slippage during trade execution.*
-
-# LightningEdge is a comprehensive solution that combines:
-
-- Advanced API technologies for cryptocurrency trading,
-- High performance with minimal latency,
-- A full suite of tools for monitoring PnL, drawdown, and risk management,
-- Integration with leading crypto exchanges and platforms such as Raydium, Binance, and ByBit,
-- Optimized trading algorithms for HFT and protection of your investments through institutional market regulation.
-
-## PineScript
-> In the software using PineScript(v6) Algorithm, but you can also add your Algorithm Strategy
-
-## PineScript add Module
-<p align="center"><img width="846" height="95" src="images/algo.png" alt="ave" /></p>
-
-# Trading Report per 200 orders
-- Max Drawdown: 3.8%
-- Win Rate: 78%, Profit Factor: 2.1
-- PnL: +6.2%
-- Latency: 47 ms
-- Fees: 0.07% per trade
-- Slippage: 0.65%
-- throughput 10.5k ops/sec
-- CPU Usage 68%
-- mistakes 0.08%
-
-# Software v5.0 trading metrics
-<p align="center"><img width="1125" height="485" src="images/LightningEdge/12.01.2025 lt.jpg" alt="interface" /></p> <p align="center"><img width="1129" height="525" src="images/LightningEdge/12.01.2025.jpg" alt="interface" /></p>
-
-## Software v5.0 net profit
-<p align="center"><img width="1280" height="342" src="images/000.jpg" alt="interface" /></p>
-
-# Next Scaling
-
-### 1. Expansion of trading algorithms and strategies
-
-Additional algorithms for technical analysis:
-- Pulse Indicators: MACD, RSI, Stochastic, CCI
-- Volatility indicators: Bollinger Bands, ATR
-- Multiframe Analysis: VWAP, TWAP, EMA Crossovers
-- Algorithms based on machine learning: clustering, price prediction, neural networks for pattern recognition
-
-Arbitrage strategies:
-- Inter-exchange arbitrage between CEX and DEX
-- Intra-exchange arbitrage between different pairs
-
-Scalping and high-frequency trading strategies:
-- Development of algorithms optimized for low-latency operation
-- Use of dollar cost averaging algorithms for multiple entries into a position
-
-### 2. Extension of signals and parameters
-
-Correlation-based signals:
-- Tracking correlation between different tokens to identify diversified opportunities
-
-Signals of insider activity:
-- Monitoring of large transactions, concentration of wallet activity, clustering of insider transactions
-
-Risk Parameters:
-- Dynamic risk management stop loss, trailing stop, risk-to-reward ratio
-- Parameters for optimizing capital allocation based on volatility and predictive signals
-
-## 3. integration with additional exchanges (DEX and CEX)
-
-### DEX:
-In addition to Raydium on Solana, add support for Ethereum DEX (Uniswap, SushiSwap) as well as other blockchains (e.g. PancakeSwap for BSC)
-
-### CEX:
-Expand integration to work with exchanges such as Kraken, Coinbase Pro, FTX, and others via a unified CCXT library that allows multiple exchanges to work through a single API
-
-## Improved  productivity
-
-Expansion of backtesting and simulation capabilities:
-- Historical analysis module with the ability to backtest new strategies and parameters
-- Simulation of different market scenarios to optimize algorithms

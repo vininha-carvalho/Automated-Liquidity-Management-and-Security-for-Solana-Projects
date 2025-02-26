@@ -1,3 +1,5 @@
+<p align="center"><img width="1280" height="698" src="images/fn.jpg" alt="Analisyis dashbord" /></p>
+
 # Liquidity Guardian Suite: Automated Liquidity Management & Security for Solana Projects | DeFi Tools
 > Automation of liquidity management, protection from hackers and analytics for token projects on Solana. Increase returns, reduce risks and optimize your pools. A white labeled solution for your brand.
 

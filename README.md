@@ -87,98 +87,128 @@
 
 - **Automatic rebalancing of pools**
     >Settings:
+
         - Target liquidity allocation between pools (e.g. 60% in Raydium, 40% in Orca).
+
         - Rebalancing rules (e.g., if there is a 5% change in price or trading volume > $50k).
 
 - **Yield Aggregation**
     >Settings:
-        Choice of strategies (steaking, lending, farming).
-        Minimum and maximum amount for placement.
+
+        - Choice of strategies (steaking, lending, farming).
+
+        - Minimum and maximum amount for placement.
 
 - **Anti-dumping mechanisms**
     >Settings:
+
         - Price drop threshold to activate redemption (e.g. -10% in 1 hour).
+
         - Redemption limits (e.g., no more than 5% of liquidity per day).
 
 ### 2. Safety
 
 - **Transaction monitoring**
     >Settings:
+
         - Thresholds for suspicious transactions (e.g., transfer > $10k).
+
         - List of trusted addresses.
 
 - **Multi-signature**
     >Settings:
+
         - Number of signatures to validate transactions (e.g., 3 out of 5).
+
         - List of multi-signature participants.
 
 - **Audit of smart contracts**
     >Settings:
+
         - Audit frequency (e.g., once a week).
+
         - Integration with external audit services (e.g. Sec3).
 
 ### 3. Analytics
 
 - **Real-time metrics**
     >Settings:
+
         - Selection of key metrics (e.g., trading volume, price, token distribution).
+
         - Customize notifications (e.g., when price changes > 5%).
 
 - **Holder Analysis**
     >Settings:
+
         - Threshold for identifying "whales" (e.g., holders > 1% of total volume).
+
         - Tracking the activity of large holders.
 
 - **Scenario Simulator**
     >Settings:
+
         - Input of parameters (e.g. liquidity change, staking).
+
         - Selecting the time period for the simulation.
 
 ### 4. Community management
 
 - **Adaptive Airdrops**
     >Settings:
+
         - Criteria for participation (e.g., minimum token retention period).
+
         - Amount of remuneration.
 
 - **DAO integration**
     >Settings:
         - Customize voting rules (e.g. quorum, approval threshold).
+
         - Selecting the parameters to be voted on (e.g. changing liquidity).
 
 ### 5. Cross-chain management
 
 - **Automated arbitration**
     >Settings:
+
         - Threshold for arbitrage (e.g., price difference > 2%).
+
         - Limits on the volume of arbitrage transactions.
 
 - **Managing multichain pools**
     >Settings:
+
         - Select blockchains to manage (e.g. Solana, Ethereum, BNB Chain).
+
         - Distribute liquidity between networks.
 
 ### 6. Customization and integrations
 
 - **White-Label Solution**
     >Settings:
+
         - Logo, colors, domain.
+
         - Selection of modules to display.
 
 - **Integrations**
     Settings:
+
         - A selection of DEXs (Raydium, Orca), steaking platforms (Marinade, Solend), oracles (Pyth, Switchboard).
 
 ### 7. Notifications and reports
-
     Settings:
+
         - Select channels for notifications (Telegram, Discord, Email).
+
         - Reporting frequency (daily, weekly).
 
 ### 8. Monetization
-
     Settings:
+
         - Selecting a tariff plan (basic, premium).
+
         - Revenue Share setting (0.1% of managed liquidity).
 
 # Technical Features

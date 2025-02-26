@@ -1,51 +1,37 @@
-# Liquidity Guardian Suite
-> Automatic pool rebalancing, hacker protection, real-time analytics and cross-chain management. Increase profitability, reduce risks and focus on project development. A white solution for your brand
+# Liquidity Guardian Suite: Automated Liquidity Management & Security for Solana Projects | DeFi Tools
+> Automation of liquidity management, protection from hackers and analytics for token projects on Solana. Increase returns, reduce risks and optimize your pools. A white labeled solution for your brand.
 
 # Client Liquidity Guaridan Suite for Windows/macOS\.
 ### Write https://t.me/ZeronodeX for get access (available free trial)
 
-# Key modules
-1. **Auto-Rebalance Engine**
+## Liquidity Guardian Suite
+> Liquidity management automation, security and analytics for token projects on Solana
+> Liquidity Guardian Suite is a powerful tool for projects with liquidity >$10k. It provides automatic pool rebalancing, hacker protection, real-time analytics and cross-chain management.
 
-- Optimization of liquidity pools:
+# Key Features
+1. **Automatic rebalancing of pools**
 
-    - Integration with DEX (Raydium, Orca) to automatically redistribute liquidity between pools based on trading volume and volatility.
+    - **Integration with DEX**: Raydium, Orca and others.
 
-    - Utilize SPL Token Accounts to manage token balances.
+    - **Liquidity optimization**: Based on trading volume and volatility.
 
-- Yield Aggregation:
-
-    - Automatic placement of excess liquidity into staking pools (e.g., Marinade Finance) or DeFi strategies (e.g., Solend).
+    - **Balance Management**: Utilizing SPL Token Accounts.
       
-2. **Security Sentinel**
+2. **Protection against hackers**
 
-- Transaction Monitoring:
+    - **Transaction monitoring**: Real-time detection of suspicious activity.
 
-    - Real-time transaction analysis via Solana RPC to identify suspicious activity (e.g., large transfers to unknown addresses).
+    - **Multisig**: Treasury management via SPL Token Multisig.
 
-    - Integration with smart contract auditing tools (e.g. Sec3).
+    - **Notifications**: Telegram, Discord, Email.
 
-- Notifications:
+3. **Real-time analytics**
 
-    - Push notifications to Telegram/Discord when suspicious activity is detected.
+    - **Token Distribution**: Analyze holders through SPL Token Accounts.
 
-- Multisig for treasury management:
+    - **Whale Behavior**: Tracking large holders.
 
-    - Use SPL Token Multisig to manage critical transactions (e.g. withdrawals fro
-
-3. **Advanced Analytics Dashboard**
-
-- Real-time metrics:
-
-    - Distribution of tokens to holders (via SPL Token Accounts analysis).
-
-    - Analysis of the behavior of “whales” (large holders).
-
-    - Volume and liquidity trends (integration with Birdeye, DexScreener).
-
-- Scenario Simulator:
-
-    - Users test how changes in liquidity or staking will affect price.
+    - **Liquidity Trends**: Integration with Birdeye, DexScreener.
 
 4. **Community & Treasury Tools**
 
@@ -61,14 +47,11 @@
 
     - Tools to vote on changes to liquidity parameters (using SPL Governance).
 
-5. **Cross-Chain Liquidity Bridge**
-- Automated Arbitrage:
+5. **Cross-chain management**
 
-    - Eliminating imbalances between Solana and Ethereum/BNB Chain via Wormhole.
+    - **Automated Arbitrage**: Eliminating imbalances between Solana, Ethereum and BNB Chain via Wormhole.
 
-- Multichain Pool Management:
-
-    - Single interface to control liquidity across different blockchains.
+    - **Single Interface**: Manage liquidity across multiple blockchains.
 
 # Features
 
@@ -82,7 +65,7 @@
 
 - White-label solution for customization for your brand.
 
-# Settings
+# Settings and modules
 ### 1. Liquidity management
 
 - **Automatic rebalancing of pools**
@@ -213,19 +196,11 @@
 
 # Technical Features
 
-- Ultra-Low Latency Execution: Achieve order execution with latency below 50 ms by leveraging dedicated RPC nodes and optimized network paths.
+- Ultra-low latency: Utilize Solana's dedicated RPC nodes.
 
-- Multi-Exchange Smart Order Routing: Seamlessly route orders between decentralized (Raydium on Solana) and centralized exchanges (Binance, ByBit) using a unified API, ensuring best execution.
+- Multi-Exchange Routing: Integration with Raydium, Orca, Binance, ByBit.
 
-- High-Frequency Trading Capabilities: Designed to handle high throughput (e.g., 10.5k operations per second) for rapid and efficient trading.
+- Scalable architecture: Built on FastAPI and asynchronous SQLAlchemy.
 
-- Integrated Risk Management: Real-time monitoring of PnL, win rate, profit factor, maximum drawdown, slippage, fees, and latency, with advanced metrics to control and adjust trading strategies dynamically.
-
-- Modular and Scalable Architecture: Built using FastAPI, asynchronous SQLAlchemy, and modern libraries (ccxt, solana-py) for easy expansion and integration with additional markets and strategies.
-
-- Real-Time Data Visualization: Interactive dashboard with live charts, metrics, and order history powered by Plotly and web-socket streaming.
-
-- Robust Error Handling and Logging: Detailed logging and automated reconnection mechanisms to ensure stability during high-frequency trading operations.
-
-- Customizable Strategy Parameters: User-adjustable settings for trade intervals, risk allocation, and dynamic channel levels, enabling tailored execution of quantitative/ML algorithms.
+- Data Visualization: Real-time interactive graphs and reports
 

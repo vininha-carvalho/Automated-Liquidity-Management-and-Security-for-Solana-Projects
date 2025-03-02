@@ -1,0 +1,63 @@
+# === Solana AlphaBot Config (v1.3) ===
+# Security-first configuration for $10k+ traders
+
+network:
+  env: mainnet-beta  # [mainnet-beta|devnet]
+  rpc:
+    primary: "https://solana-rpc.zeronodex.com"  # Private RPC with rate limits
+    fallback: "https://api.mainnet-beta.solana.com"
+  commitment: confirmed
+
+wallets:
+  ledger:
+    derivation_path: "44'/501'/0'/0'"  # Ledger Live default
+    require_physical_confirmation: true
+  hot_wallet:
+    enabled: false  # Not recommended for >$10k
+    max_balance: 0.1  # SOL
+
+trading:
+  risk_management:
+    max_position_size: 0.15  # 15% of portfolio
+    daily_loss_limit: 0.05   # 5%
+    stoploss:
+      trailing: true
+      trigger_volatility: 0.25  # 25% 24h volatility
+
+dex:
+  allowed_markets:  # Whitelisted DEX
+    - raydium
+    - orca
+    - openbook
+  slippage:
+    default: 0.5    # 0.5%
+    memecoins: 2.0  # 2%
+
+arbitrage:
+  min_profit: 0.003  # 0.3% after fees
+  cross_chain:
+    wormhole_enabled: true
+    eth_rpc: "https://eth.zeronodex.com" 
+
+memecoin_sniper:
+  liquidity_threshold: 75  # SOL
+  social_requirements:
+    min_telegram_members: 2500
+    min_twitter_followers: 10000
+  contract_checks:
+    honeypot_scan: true
+    mint_freeze: true
+
+airdrop_farming:
+  protocols:
+    kamino:
+      min_tvl: 1000  # USD
+    parcl:
+      min_tvl: 500
+  auto_compounding: hourly
+
+# Audit Trail Settings
+logging:
+  encrypted_logs: true
+  aws_bucket: ""  # Optional
+  telegram_alerts: true

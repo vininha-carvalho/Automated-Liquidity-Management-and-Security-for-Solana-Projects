@@ -1,10 +1,7 @@
-<p align="center"><img width="1280" height="698" src="images/fn.jpg" alt="Analisyis dashbord" /></p>
+
 
 # Solana Alpha Bot: Multi-Strategy Trading Bot for DeFi, Memecoins & NFTs
 > Automate your profits on Solana with a bot that combines arbitrage on DEX (Raydium, Orca), instant purchases of new memcoins, NFT investments (Mad Lads, Tensor) and airdrop farming (Kamino, Parcl). High-frequency transactions in Rust, analytics via Python, and dashboarding in React.
-
-# Client Liquidity Guaridan Suite for Windows/macOS\.
-### Write https://t.me/ZeronodeX for get access (available free trial)
 
 # Key fixes:
 
@@ -16,6 +13,23 @@
 
 # Why Choose
 - 100% Solana Ecosystem: Works with Raydium, Drift, Tensor, SharkyFi.
-- No AI Algorithms: Transparent rules, manual override via React-dashboard.
+- No AI, No Risks: Transparent strategies, manual override via React dashboard.
+- Portable & Fast: Run natively on Windows/macOS — zero cloud dependency, 1000+ TPS.
 
 > Download Solana AlphaBot and maximize ROI with Solana trends from memcoins to RWA tokenization. For traders who don't trust AI.
+
+# Technical Edge
+
+- Rust Core: High-frequency Solana RPC transactions.
+
+- Python Analytics: CoinGecko, DexScreener, and whale-tracking APIs.
+
+- React Dashboard: Custom strategies, liquidity pools, cross-chain settings.
+
+- Integrations: Raydium (AMM), Orca (low-slippage swaps), Jupiter (best-price routing).
+
+**RPC/APIs:** Custom Solana RPC, CoinGecko, DexScreener. 
+
+**DEXs:** Raydium, Orca, Serum, Jupiter.
+>Fully configurable — adapt to any market condition.
+>For traders and projects who value speed, security, and control. No compromises.

@@ -1,4 +1,4 @@
-
+<p align="center"><img width="720" height="400" src="images/image.png" alt="Analisyis dashbord" /></p>
 
 # Solana Alpha Bot: Multi-Strategy Trading Bot for DeFi, Memecoins & NFTs
 > Automate your profits on Solana with a bot that combines arbitrage on DEX (Raydium, Orca), instant purchases of new memcoins, NFT investments (Mad Lads, Tensor) and airdrop farming (Kamino, Parcl). High-frequency transactions in Rust, analytics via Python, and dashboarding in React.

@@ -35,3 +35,6 @@
 **DEXs:** Raydium, Orca, Serum, Jupiter.
 >Fully configurable — adapt to any market condition.
 >For traders and projects who value speed, security, and control. No compromises.
+
+## Key Tags
+solana arbitrage bot, memecoin sniper bot solana, high frequency trading bot solana, solana dex arbitrage strategy, solana cross-chain arbitrage, solana nft floor price bot, non-custodial solana trading bot, phantom wallet integration solana, honeypot detection solana, halborn audited crypto bot, solana anti-dump bot, raydium orca arbitrage bot, jupiter aggregator api bot, solana wormhole arbitrage, phantom wallet trading bot, solana rpc node optimization, solana stop-loss smart contract, portfolio diversification bot solana, solana risk management bot, volatility-based trading solana, solana airdrop farming automation, kamino finance bot, marginfi auto-compound bot, liquid staking bot solana, solana defi yield optimizer, solana anchor program examples, rust solana trading bot github, react solana dashboard template, whale tracking solana bot, anti-frontrunning bot solana, multi-dex liquidity optimizer

